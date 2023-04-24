@@ -6,7 +6,7 @@ This repo contains embedded system fundamental require for each beginner
 |1|Introduction to Embedded Systems| https://www.scss.tcd.ie/Jonathan.Dukes/CS7NS2/fundamentals/ |3 days|
 |2|Number System| https://www.rapidtables.com/math/number/Numeral_system.html |3 days|
 |3|Bitwise operations| https://www.techtarget.com/whatis/definition/bitwise |3 days|
-|4|Tera Term|  |3 days|
+|4|Tera Term| https://github.com/softnauticsgithub/Embedded-Fundamentals/blob/main/Tera_Term_Windows.pdf |3 days|
 |5|Minicom| https://www.css-techhelp.com/post/configure-minicom-for-a-usb-to-serial-converter <br/> https://www.cyberciti.biz/tips/connect-soekris-single-board-computer-using-minicom.html |3 days|
 
 
